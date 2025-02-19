@@ -1,0 +1,6 @@
+transformers
+TensorFlow
+tf-keras
+python-dotenv
+mistralai #pr géneration de commentaires fictifs + tester catégorisation de texte
+scikit-learn
